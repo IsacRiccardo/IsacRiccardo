@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsacRiccardo
 - 👀 I’m interested in programming, automation, astronomy and different sports
-- 🌱 I’m currently learning C++ and Automation 
+- 🌱 I’m currently learning Embedded and Automation 
 - 📫 How to reach me: ricoisac2@gmail.com
 
 <!---
